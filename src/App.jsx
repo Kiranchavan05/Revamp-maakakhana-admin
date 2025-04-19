@@ -10,7 +10,7 @@ import { ToastContainer, toast } from 'react-toastify';
 
 
 const App = () => {
-  const url="http://localhost:4000"
+  const url="https://revamp-maakakhana-backend-2.onrender.com"
   return (
     <div>
       <ToastContainer />
